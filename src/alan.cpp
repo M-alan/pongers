@@ -50,7 +50,7 @@ void paddle_wall_collision()
 
 void ball_movement()
 {
-  if((ball.x < 0) && ball.y > ) 
+//  if((ball.x < 0) && ball.y > ) 
 }
 // notes
 // check for each section ands and ors

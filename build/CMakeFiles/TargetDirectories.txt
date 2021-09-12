@@ -1,0 +1,3 @@
+/home/alan/secret/cppWrk/RaylibWrk/Pong/build/CMakeFiles/rebuild_cache.dir
+/home/alan/secret/cppWrk/RaylibWrk/Pong/build/CMakeFiles/edit_cache.dir
+/home/alan/secret/cppWrk/RaylibWrk/Pong/build/CMakeFiles/pong.dir

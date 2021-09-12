@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pong.dir/home/alan/secret/cppWrk/RaylibWrk/Pong/src/main.cpp.o CMakeFiles/pong.dir/home/alan/secret/cppWrk/RaylibWrk/Pong/src/alan.cpp.o -o pong  /usr/lib/libraylib.so -lraylib 
